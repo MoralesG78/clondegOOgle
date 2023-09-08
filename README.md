@@ -2,17 +2,17 @@
 
 ## **ÍNDICE**
 
-1. [Intro] (#)
-2. [Que construí] (#)
-3. [Objetivo del proyecto] (#)
+1. [Intro](#)
+2. [Qué construí](#)
+3. [Objetivo del proyecto](#)
 4. [link a Demo](#)
+   
 ****
 
 ## 1. Intro
 HTML5 trabaja de la mano con CSS3 para crear páginas web que usamos todos los días en el navegador. Incluso, este sitio web en donde estás viendo este contenido está construido con HTMLL5 y CSS3. En este proyecto, con los conocimientos de HTML5 y CSS3 realicé la clonación de la interfaz de Google.
 
 ## 2. Qué contruí
-
  En este proyecto me enfoqué en construir la clonación de la interfaz de la Google.
 
  * **Header:** Sección que involucra la foto de mi perfil, iconos y el menú con enlaces externos.
@@ -29,5 +29,5 @@ Las tecnologías que utilicé son:
 ## Objetivo del proyecto 
 Aprender a utilizar las etiquetas estandar de HTML5 y CSS3.
 ## Link a Demo
-Aqui puedes ver el proyecto terminado:[clonación de Google] (#)
+Aqui puedes ver mi proyecto terminado:[clonación de Google](#)
 
