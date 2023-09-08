@@ -29,5 +29,5 @@ Las tecnologías que utilicé son:
 ## Objetivo del proyecto 
 Aprender a utilizar las etiquetas estandar de HTML5 y CSS3.
 ## Link a Demo
-Aqui puedes ver mi proyecto terminado:[clonación de Google](#)
+Aqui puedes ver mi proyecto terminado: [Clonación de Google](#)
 
